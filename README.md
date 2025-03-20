@@ -16,6 +16,7 @@ HTTP Decompressor is a Go library that wraps HTTP responses to transparently dec
 - zstd
 - snappy
 - brotli
+- lz4
 
 ## Installation
 
